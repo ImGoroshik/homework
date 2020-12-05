@@ -1,4 +1,4 @@
-string = one = str(input("Введите текст: "))
+string = str(input("Введите текст: "))
 
 summ = ''
 b = 0
